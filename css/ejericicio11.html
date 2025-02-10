@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro en nuestra tienda</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+
+
+        label, input, select, textarea {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+
+    </style>
+</head>
+<body>
+<h1>Registro en nuestra tienda</h1>
+<form>
+    <label for="usuario">Nombre de usuario</label>
+    <input type="text" id="usuario" placeholder="Ej: luis">
+
+    <label for="email">Email</label>
+    <input type="email" id="email" placeholder="Ej: luis@gmail.com">
+
+    <label for="edad">Edad</label>
+    <input type="number" id="edad" placeholder="Ej: 21">
+
+    <label>Género:</label>
+    <input type="radio" name="genero" value="masculino"> Masculino
+    <input type="radio" name="genero" value="femenino"> Femenino
+
+    <label for="recomendado">Recomendado por:</label>
+    <select id="recomendado">
+        <option>Google</option>
+        <option>Amigo</option>
+        <option>Publicidad</option>
+    </select>
+
+    <label for="comentarios">Comentarios:</label>
+    <textarea id="comentarios" rows="4"></textarea>
+
+    <input type="checkbox" id="terminos">
+    <label for="terminos">Acepto términos y condiciones</label>
+
+    <input type="submit" value="Registrar">
+</form>
+</body>
+</html>
