@@ -8,15 +8,14 @@ Soy un apasionado por la tecnología, con experiencia en desarrollo web y backen
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** JavaScript, Python, HTML, CSS, Node.js,java
-- **Frameworks y Librerías:** Springboot , React, 
-- **Bases de Datos:** MySQL, 
-- **Herramientas:** Git, GitHub, Docker, Postman
+- **Lenguajes:** JavaScript, Python, HTML, CSS, Node.js, Java
+- **Frameworks y Librerías:** Springboot , React, JQuery, React Native
+- **Bases de Datos:** MySQL 
+- **Herramientas:** Git, GitHub, Postman
 
 ---
 
 ## 📌 Proyectos Destacados
-
 
 
 ## 📚 Actualmente Aprendiendo
