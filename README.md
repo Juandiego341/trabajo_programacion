@@ -27,6 +27,6 @@ Soy un apasionado por la tecnología, con experiencia en desarrollo web y backen
 ---
 
 ## 📫 Contáctame
-📩 [Correo Electrónico](betancurd913@gmail.com)    
+📩 [Correo Electrónico] betancurd913@gmail.com    
 📸 [Instagram](https://www.instagram.com/j_gomez_b/?hl=es) 
 ¡Siempre estoy abierto a colaborar en proyectos interesantes y aprender juntos! 🚀
